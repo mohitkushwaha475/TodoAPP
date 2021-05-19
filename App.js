@@ -7,7 +7,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-
+      <Text>my name is mohit</Text>
       <Text>Enter name:</Text>
       <TextInput 
         placeholder='e.g. John Doe' 
