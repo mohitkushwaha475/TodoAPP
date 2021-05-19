@@ -8,6 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>my name is mohit</Text>
+      <Text>my age is 40</Text>
       <Text>Enter name:</Text>
       <TextInput 
         placeholder='e.g. John Doe' 
